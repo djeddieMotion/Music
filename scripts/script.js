@@ -10,11 +10,11 @@ new Vue({
       isTimerPlaying: false,
       tracks: [
         {
-          name: "Mekanın Sahibi",
-          artist: "Norm Ender",
-          cover: "https://raw.githubusercontent.com/muhammederdem/mini-player/master/img/1.jpg",
-          source: "https://raw.githubusercontent.com/muhammederdem/mini-player/master/mp3/1.mp3",
-          url: "https://www.youtube.com/watch?v=z3wAjJXbYzA",
+          name: "A Miuda Daquele Bar",
+          artist: "Jaimão",
+          cover: "https://is5-ssl.mzstatic.com/image/thumb/Music69/v4/af/09/02/af090292-0e65-91e8-c8df-4649dd3defa2/250917.jpg",
+          source: "https://github.com/djeddieMotion/Music/blob/main/mp3/1.mp3",
+          url: "https://www.youtube.com/watch?v=dz79L_fhAHw",
           favorited: false
         },
         {
@@ -24,6 +24,7 @@ new Vue({
           source: "https://raw.githubusercontent.com/muhammederdem/mini-player/master/mp3/2.mp3",
           url: "https://www.youtube.com/watch?v=Lin-a2lTelg",
           favorited: true
+		  
         },
         {
           name: "Extreme Ways",
