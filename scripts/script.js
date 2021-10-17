@@ -78,7 +78,8 @@ new Vue({
           name: "Faz Beicinho",
           artist: "Minhotos Marotos Com Cláudia Martins",
           cover: "https://raw.githubusercontent.com/djeddieMotion/music/main/img/9.jpg",
-          source: "https://raw.githubusercontent.com/djeddieMotion/music/main/mp3/9.mp3",
+          // source: "https://raw.githubusercontent.com/djeddieMotion/music/main/mp3/9.mp3",
+		  source: "https://www.mixcloud.com/EddieMotion/port-various-artists-wk-40-oct-wk-1-2021/",		  
           url: "https://www.youtube.com/watch?v=L3wKzyIN1yk",
           favorited: false
         }
