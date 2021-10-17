@@ -23,7 +23,7 @@ new Vue({
           cover: "https://raw.githubusercontent.com/djeddieMotion/music/main/img/2.jpg",
           source: "https://raw.githubusercontent.com/djeddieMotion/music/main/mp3/2.mp3",
           url: "https://www.youtube.com/watch?v=Lin-a2lTelg",
-          favorited: true
+          favorited: false
 		  
         },
         {
@@ -48,7 +48,7 @@ new Vue({
           cover: "https://raw.githubusercontent.com/djeddieMotion/music/main/img/5.jpg",
           source: "https://raw.githubusercontent.com/djeddieMotion/music/main/mp3/5.mp3",
           url: "https://www.youtube.com/watch?v=0WlpALnQdN8",
-          favorited: true
+          favorited: false
         },
         {
           name: "Genius ft. Sia, Diplo, Labrinth",
@@ -64,7 +64,7 @@ new Vue({
           cover: "https://raw.githubusercontent.com/djeddieMotion/music/main/img/7.jpg",
           source: "https://raw.githubusercontent.com/djeddieMotion/music/main/mp3/7.mp3",
           url: "https://www.youtube.com/watch?v=me6aoX0wCV8",
-          favorited: true
+          favorited: false
         },
         {
           name: "Overdose",
