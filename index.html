@@ -23,18 +23,22 @@
                 <div class="player-cover__item" v-if="$index === currentTrackIndex" :style="{ backgroundImage: `url(${track.cover})` }"  v-for="(track, $index) in tracks" :key="$index"></div>
             </transition-group>
           </div>
-          <div class="player-controls">
-            <div class="player-controls__item -favorite" :class="{ active : currentTrack.favorited }" @click="favorite">
+          
+		  <div class="player-controls">
+            
+			<div class="player-controls__item -favorite" :class="{ active : currentTrack.favorited }" @click="favorite">
               <svg class="icon">
                 <use xlink:href="#icon-heart-o"></use>
               </svg>
             </div>
-            <a :href="currentTrack.url" target="_blank" class="player-controls__item" visible="false">
+    <!--   URL to go to youtube or another site for the album     
+			<a :href="currentTrack.url" target="_blank" class="player-controls__item">
               <svg class="icon">
                 <use xlink:href="#icon-link"></use>
               </svg>
             </a>
-            <div class="player-controls__item" @click="prevTrack">
+   -->         
+			<div class="player-controls__item" @click="prevTrack">
               <svg class="icon">
                 <use xlink:href="#icon-prev"></use>
               </svg>
