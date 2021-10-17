@@ -79,7 +79,7 @@ new Vue({
           artist: "Minhotos Marotos Com Cláudia Martins",
           cover: "https://raw.githubusercontent.com/djeddieMotion/music/main/img/9.jpg",
           // source: "https://raw.githubusercontent.com/djeddieMotion/music/main/mp3/9.mp3",
-		  source: "https://www.mixcloud.com/EddieMotion/port-various-artists-wk-40-oct-wk-1-2021/",		  
+		  source: "https://audio10.mixcloud.com/secure/dash2/2/4/b/4/4ddf-1a8b-4b49-bdf2-a25593c5822f.m4a/fragment-44-a1-x3.m4s",		  
           url: "https://www.youtube.com/watch?v=L3wKzyIN1yk",
           favorited: false
         }
