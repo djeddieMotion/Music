@@ -13,7 +13,7 @@ new Vue({
           name: "A Miuda Daquele Bar",
           artist: "Jaimão",
           cover: "https://m.media-amazon.com/images/I/81ELVyM8INL._SS500_.jpg",
-          source: "https://github.com/djeddieMotion/Music/blob/main/mp3/1.mp3",
+          source: "https://raw.githubusercontent.com/djeddieMotion/Music/blob/main/mp3/1.mp3",
           url: "https://www.youtube.com/watch?v=dz79L_fhAHw",
           favorited: false
         },
