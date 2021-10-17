@@ -27,56 +27,56 @@ new Vue({
 		  
         },
         {
-          name: "Extreme Ways",
-          artist: "Moby",
+          name: "A Dança Do Canguru",
+          artist: "Flor",
           cover: "https://raw.githubusercontent.com/djeddieMotion/music/main/img/3.jpg",
           source: "https://raw.githubusercontent.com/djeddieMotion/music/main/mp3/3.mp3",
           url: "https://www.youtube.com/watch?v=ICjyAe9S54c",
           favorited: false
         },
         {
-          name: "Butterflies",
-          artist: "Sia",
+          name: "A Roçar É Que Está A Dar",
+          artist: "Emanuel",
           cover: "https://raw.githubusercontent.com/djeddieMotion/music/main/img/4.jpg",
           source: "https://raw.githubusercontent.com/djeddieMotion/music/main/mp3/4.mp3",
           url: "https://www.youtube.com/watch?v=kYgGwWYOd9Y",
           favorited: false
         },
         {
-          name: "The Final Victory",
-          artist: "Haggard",
+          name: "O Quê Que É Isso Gente!",
+          artist: "BandaLusa",
           cover: "https://raw.githubusercontent.com/djeddieMotion/music/main/img/5.jpg",
           source: "https://raw.githubusercontent.com/djeddieMotion/music/main/mp3/5.mp3",
           url: "https://www.youtube.com/watch?v=0WlpALnQdN8",
           favorited: false
         },
         {
-          name: "Genius ft. Sia, Diplo, Labrinth",
-          artist: "LSD",
+          name: "Oh Baby (Danço A Caminhar)",
+          artist: "Ana Bloom",
           cover: "https://raw.githubusercontent.com/djeddieMotion/music/main/img/6.jpg",
           source: "https://raw.githubusercontent.com/djeddieMotion/music/main/mp3/6.mp3",
           url: "https://www.youtube.com/watch?v=HhoATZ1Imtw",
           favorited: false
         },
         {
-          name: "The Comeback Kid",
-          artist: "Lindi Ortega",
+          name: "Amanhã Há Mais",
+          artist: "Starlight",
           cover: "https://raw.githubusercontent.com/djeddieMotion/music/main/img/7.jpg",
           source: "https://raw.githubusercontent.com/djeddieMotion/music/main/mp3/7.mp3",
           url: "https://www.youtube.com/watch?v=me6aoX0wCV8",
           favorited: false
         },
         {
-          name: "Overdose",
-          artist: "Grandson",
+          name: "A Velha Arrebitada",
+          artist: "Star Music",
           cover: "https://raw.githubusercontent.com/djeddieMotion/music/main/img/8.jpg",
           source: "https://raw.githubusercontent.com/djeddieMotion/music/main/mp3/8.mp3",
           url: "https://www.youtube.com/watch?v=00-Rl3Jlx-o",
           favorited: false
         },
         {
-          name: "Rag'n'Bone Man",
-          artist: "Human",
+          name: "Faz Beicinho",
+          artist: "Minhotos Marotos Com Cláudia Martins",
           cover: "https://raw.githubusercontent.com/djeddieMotion/music/main/img/9.jpg",
           source: "https://raw.githubusercontent.com/djeddieMotion/music/main/mp3/9.mp3",
           url: "https://www.youtube.com/watch?v=L3wKzyIN1yk",
