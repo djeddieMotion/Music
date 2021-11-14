@@ -13,7 +13,7 @@ new Vue({
           name: "A Miuda Daquele Bar",
           artist: "Jaimão",
           cover: "https://raw.githubusercontent.com/djeddieMotion/music/main/img/1.jpg",
-          source: "https://www.mixcloud.com/EddieMotion/port-various-artists-wk-40-oct-wk-1-2021/",
+          source: "https://raw.githubusercontent.com/djeddieMotion/music/main/mp3/1.mp3",
           url: "https://www.youtube.com/watch?v=dz79L_fhAHw",
           favorited: false
         },
